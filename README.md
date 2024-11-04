@@ -5,3 +5,6 @@ Front-End Developer course project in codecademy.
 
 
 ChatGPT was used to support adding animations.
+
+
+Ignore the massive amount of deployments had github issue had no clue how to solve.
