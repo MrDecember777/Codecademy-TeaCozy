@@ -109,8 +109,9 @@ header {
 .gallery img{
     height: 200px;
     width: 300px;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: transform .2s ease;
+    border: 2px solid white;
 }
 
 .gallery img:hover {
@@ -195,4 +196,5 @@ footer h2 {
     text-align: left;
     font-weight: bold;
     margin-top: 50px;
+    border-top: 1px solid white;
 }
