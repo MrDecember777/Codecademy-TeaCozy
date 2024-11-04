@@ -113,7 +113,8 @@ header {
     margin: 0 auto;
     border-radius: 5px;
     height: 570px;
-    width: 1200px;
+    width: 100%;
+    max-width: 1200px;
 }
 
 .our-locations {
