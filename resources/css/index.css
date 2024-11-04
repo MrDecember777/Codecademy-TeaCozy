@@ -103,7 +103,7 @@ header {
 /*Locations*/
 
 #location {
-    background-image: url('img-locations-background.jpg');
+    background-image: url('images/img-locations-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
