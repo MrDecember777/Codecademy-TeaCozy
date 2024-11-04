@@ -35,7 +35,7 @@ header {
 
 #mission {
     border-radius: 5px;
-    background-image: url(images/img-mission-background.jpg);
+    background-image: url(img-mission-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -102,7 +102,7 @@ header {
 /*Locations*/
 
 #location {
-    background-image: url(images/img-locations-background.jpg);
+    background-image: url(img-locations-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
